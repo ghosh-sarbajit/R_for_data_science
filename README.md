@@ -1,3 +1,3 @@
 # R4DS
 
-R for data science, solutions
+This repository contains R for data science, solutions. Link to the book is [2nd edition](https://r4ds.hadley.nz/)
